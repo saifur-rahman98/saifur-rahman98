@@ -2,9 +2,6 @@
 🏠   Living: Cumilla, Bangladesh.
 ## Thanks for visiting my profile. I'm a Junior Web Developer.
 <!-- Contact me section starts here  -->
-
-[<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.svg" />][website]
-[<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.svg" />][youtube]
 [<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
 [<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
 <br />
@@ -17,7 +14,7 @@
 ### 👨‍🏫 &nbsp; About Me
 
 <p align="justify">
-I am a passionate computer science teacher. I have been teaching programming languages, web development, and computer science-related subjects to millions of Bangla-speaking students worldwide through my YouTube channel for the last eight years. I had the opportunity to teach thousands of Bachelors's and Higher secondary students at different institutions in Bangladesh. After completing my master's in Software, Web and Cloud in August 2021, I am improving my web development skills. Every day I want to learn something new and share my knowledge with my students and others.
+As fresher, seeking a position in a dynamic organization where I can launch my career, augment my knowledge, skills, and experience and contribute to the success of the organization.Now-a-days I improving my web development skills.Every day I want to learn something new and share my knowledge with others.
 </p>
 
 <br />
@@ -29,18 +26,17 @@ I am a passionate computer science teacher. I have been teaching programming lan
 
 #### Key Skills & Videos on Web development:
 
-[<img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="./images/html5.svg" />][htmlplaylist]
-[<img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="./images/css3.svg" />][cssplaylist]
-[<img align="left" alt="bootstrap" title="bootstrap playlist" width="45" hspace="5" src="./images/bootstrap.svg" />][bootstrapplaylist]
-[<img align="left" alt="javascript" title="javascript playlist" width="45" hspace="5" src="./images/js.svg" />][javascriptplaylist]
-[<img align="left" alt="json" title="json playlist" width="45" hspace="5" src="./images/json.svg" />][jsonplaylist]
-[<img align="left" alt="sass" title="sass playlist" width="45" hspace="5" src="./images/sass.svg" />][sassplaylist]
-[<img align="left" alt="jquery" title="jquery playlist" width="45" hspace="5" src="./images/jquery.svg" />][jqueryplaylist]
-[<img align="left" alt="react" title="react playlist" width="45" hspace="5" src="./images/react.svg" />][reactplaylist]
-[<img align="left" alt="node and express" title="node and express playlist" width="45" hspace="5" src="./images/node.svg" />][nodeandexpressplaylist]
-[<img align="left" alt="mongodb" title="mongodb playlist" width="45" hspace="5" src="./images/mongodb.svg" />][mongodbplaylist]
-[<img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.svg" />][mysqlplaylist]
-[<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.svg" />][githubplaylist]
+[<img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="./images/html5.svg" />]
+[<img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="./images/css3.svg" />]
+[<img align="left" alt="bootstrap" title="bootstrap playlist" width="45" hspace="5" src="./images/bootstrap.svg" />]
+[<img align="left" alt="javascript" title="javascript playlist" width="45" hspace="5" src="./images/js.svg" />]
+[<img align="left" alt="json" title="json playlist" width="45" hspace="5" src="./images/json.svg" />]
+[<img align="left" alt="jquery" title="jquery playlist" width="45" hspace="5" src="./images/jquery.svg" />]
+[<img align="left" alt="react" title="react playlist" width="45" hspace="5" src="./images/react.svg" />]
+[<img align="left" alt="node and express" title="node and express playlist" width="45" hspace="5" src="./images/node.svg" />]
+[<img align="left" alt="mongodb" title="mongodb playlist" width="45" hspace="5" src="./images/mongodb.svg" />]
+[<img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.svg" />]
+[<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.svg" />]
 
 <br />
 <br />
@@ -60,6 +56,48 @@ I am a passionate computer science teacher. I have been teaching programming lan
    Chattogram, Bangladesh.
 
 <br />
+### Languages:
+
+- 🇧🇩 Bangla : Native
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Intermediate, Professional Working Proficiency.
+- 🇮🇳 Hindi : Intermediate
+  <br />
+
+<!-- my languages section ends here  -->
+
+<!-- my sports and game section starts here  -->
+
+### Sports / Game / Activities / Hobby:
+
+- 🏸 Badminton, ⚽ Football, 🏏 Cricket 
+- 🚶‍♂️ Walking, 🏊‍♂️ Swimming, 🏃‍♂️ Running 
+- ✈️ Travelling
+- 👨‍🍳 Cooking
+
+<br />
+<!-- my sports and games section ends here  -->
+
+<!-- Honors & awards section starts here  -->
+
+### 🏅 Honors & Awards :
+
+- Merit Scholarship (2018-2022 International Islamic University, Chittagong)
+- Government Merit Scholarship (20-2015 From 5th to 10th Grade)
+
+---
+
+Thanks for going through my Portfolio.
+All rights reserved by Md Saifur Rahman @2023
+
+---
+
+<!-- my achievement section ends here  -->
+
+<!-- Links section starts here -->
+
+[facebook]: https://www.facebook.com/msrs.2hin/
+[linkedin]: https://www.linkedin.com/in/msrs2hin/
+[github]: https://github.com/saifur-rahman98
 
 <!-- education section ends here  -->
 <!---
