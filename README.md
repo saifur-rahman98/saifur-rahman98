@@ -7,11 +7,8 @@
 [<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.svg" />][github]
 <br />
 <br />
-
 <!-- Contact me section ends here  -->
-
 <!-- about-me section starts here  -->
-
 ### 👨‍🏫 &nbsp; About Me
 
 <p align="justify">
@@ -19,12 +16,10 @@ As fresher, seeking a position in a dynamic organization where I can launch my c
 </p>
 
 <br />
+
 <!-- about-me section ends here  -->
-
 <!-- web related skills section starts here  -->
-
 ### 👨🏽‍💻 &nbsp; My Skills & Videos:
-
 [<img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="./images/html5.svg" />]
 [<img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="./images/css3.svg" />]
 [<img align="left" alt="bootstrap" title="bootstrap playlist" width="45" hspace="5" src="./images/bootstrap.svg" />]
@@ -39,9 +34,7 @@ As fresher, seeking a position in a dynamic organization where I can launch my c
 <br />
 <!-- work experience section ends here  -->
 <!-- education section starts here  -->
-
 <br />
-
 ### 👨🏻‍🎓 &nbsp; Education
 
 1. B.Sc. in Computer Science & Engineering  
