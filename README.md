@@ -34,7 +34,13 @@ As fresher, seeking a position in a dynamic organization where I can launch my c
 <br />
 <!-- work experience section ends here  -->
 <!-- education section starts here  -->
+
 <br />
+
+### &nbsp; CV : 
+- [CV] : https://drive.google.com/file/d/18cpYRrtR7R5Atu0aZ8XN7hBuk7o40pdy/view?usp=drive_link
+
+<br/>
 
 ### 👨🏻‍🎓 &nbsp; Education :
 
