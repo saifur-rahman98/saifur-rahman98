@@ -24,8 +24,6 @@ As fresher, seeking a position in a dynamic organization where I can launch my c
 
 ### 👨🏽‍💻 &nbsp; My Skills & Videos:
 
-#### Key Skills & Videos on Web development:
-
 [<img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="./images/html5.svg" />]
 [<img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="./images/css3.svg" />]
 [<img align="left" alt="bootstrap" title="bootstrap playlist" width="45" hspace="5" src="./images/bootstrap.svg" />]
@@ -86,7 +84,6 @@ As fresher, seeking a position in a dynamic organization where I can launch my c
 
 ---
 
-Thanks for going through my Portfolio.
 All rights reserved by Md Saifur Rahman @2023
 
 ---
