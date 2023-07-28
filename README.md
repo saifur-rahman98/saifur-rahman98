@@ -35,7 +35,8 @@ As fresher, seeking a position in a dynamic organization where I can launch my c
 <!-- work experience section ends here  -->
 <!-- education section starts here  -->
 <br />
-### 👨🏻‍🎓 &nbsp; Education
+
+### 👨🏻‍🎓 &nbsp; Education :
 
 1. B.Sc. in Computer Science & Engineering  
    International Islamic University Chattogram
@@ -47,6 +48,7 @@ As fresher, seeking a position in a dynamic organization where I can launch my c
 - 🇧🇩 Bangla : Native
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Intermediate, Professional Working Proficiency.
 - 🇮🇳 Hindi : Intermediate
+- 
   <br />
 
 <!-- my languages section ends here  -->
@@ -61,6 +63,7 @@ As fresher, seeking a position in a dynamic organization where I can launch my c
 - 👨‍🍳 Cooking
 
 <br />
+
 <!-- my sports and games section ends here  -->
 
 <!-- Honors & awards section starts here  -->
