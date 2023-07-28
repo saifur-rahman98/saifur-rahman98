@@ -45,8 +45,7 @@ As fresher, seeking a position in a dynamic organization where I can launch my c
 ### 👨🏻‍🎓 &nbsp; Education :
 
 1. B.Sc. in Computer Science & Engineering  
-   International Islamic University Chattogram
-   Chattogram, Bangladesh.
+   International Islamic University Chattogram, Bangladesh.
 
 <br />
 
