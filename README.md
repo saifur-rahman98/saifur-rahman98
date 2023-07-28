@@ -9,7 +9,7 @@
 <br />
 <!-- Contact me section ends here  -->
 <!-- about-me section starts here  -->
-### 👨‍🏫 &nbsp; About Me
+### 👨‍🏫 &nbsp; About Me :
 
 <p align="justify">
 As fresher, seeking a position in a dynamic organization where I can launch my career, augment my knowledge, skills, and experience and contribute to the success of the organization.Now-a-days I improving my web development skills.Every day I want to learn something new and share my knowledge with others.
@@ -19,7 +19,7 @@ As fresher, seeking a position in a dynamic organization where I can launch my c
 
 <!-- about-me section ends here  -->
 <!-- web related skills section starts here  -->
-### 👨🏽‍💻 &nbsp; My Skills & Videos:
+### 👨🏽‍💻 &nbsp; My Skills :
 [<img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="./images/html5.svg" />]
 [<img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="./images/css3.svg" />]
 [<img align="left" alt="bootstrap" title="bootstrap playlist" width="45" hspace="5" src="./images/bootstrap.svg" />]
@@ -43,13 +43,14 @@ As fresher, seeking a position in a dynamic organization where I can launch my c
    Chattogram, Bangladesh.
 
 <br />
+
 ### Languages:
 
 - 🇧🇩 Bangla : Native
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Intermediate, Professional Working Proficiency.
 - 🇮🇳 Hindi : Intermediate
-- 
-  <br />
+
+<br />
 
 <!-- my languages section ends here  -->
 
