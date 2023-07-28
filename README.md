@@ -38,7 +38,7 @@ As fresher, seeking a position in a dynamic organization where I can launch my c
 <br />
 
 ### &nbsp; CV : 
-- [CV] : https://drive.google.com/file/d/18cpYRrtR7R5Atu0aZ8XN7hBuk7o40pdy/view?usp=drive_link
+- [CV](https://drive.google.com/file/d/18cpYRrtR7R5Atu0aZ8XN7hBuk7o40pdy/view?usp=drive_link)
 
 <br/>
 
