@@ -35,12 +35,6 @@ As fresher, seeking a position in a dynamic organization where I can launch my c
 [<img align="left" alt="node and express" title="node and express playlist" width="45" hspace="5" src="./images/node.svg" />]
 [<img align="left" alt="mongodb" title="mongodb playlist" width="45" hspace="5" src="./images/mongodb.svg" />]
 [<img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.svg" />]
-
-
-<br />
-<br />
-<br />
-
 <!-- web related skills section ends here  -->
 <br />
 <!-- work experience section ends here  -->
